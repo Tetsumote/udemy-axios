@@ -1,8 +1,10 @@
 {
-  "name": "http-ajax",
+  "name": "udemy-ajax-axios",
   "version": "1.0.0",
-  "description": "Short playground about ajax call and request and response workflow.",
-  "keywords": [],
+  "description": "Tutorial how to use axios with ajax.",
+  "keywords": [
+    "axios"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "axios": "0.20.0",
